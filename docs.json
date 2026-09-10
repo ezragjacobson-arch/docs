@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "name": "Guardian Defence",
+  "name": "Guardian Defense",
   "theme": "almond",
   "colors": {
     "primary": "#ef7025",
