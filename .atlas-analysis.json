@@ -1,0 +1,105 @@
+{
+  "projectType": "general",
+  "projectName": "Guardian Defence",
+  "projectDescription": "A comprehensive self-defence reference covering firearms handling and maintenance, edged weapon tactics, takedown techniques, and de-escalation strategies.",
+  "theme": "almond",
+  "primaryColor": "#ef7025",
+  "lightColor": "#eec9bc",
+  "darkColor": "#4fa1ab",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Fundamentals",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "introduction",
+              "safety-principles",
+              "legal-disclaimer"
+            ]
+          },
+          {
+            "group": "De-Escalation",
+            "pages": [
+              "de-escalation/overview",
+              "de-escalation/verbal-techniques",
+              "de-escalation/situational-awareness",
+              "de-escalation/escape-and-evade"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Firearms",
+        "groups": [
+          {
+            "group": "Firearms Overview",
+            "pages": [
+              "firearms/introduction",
+              "firearms/safe-handling",
+              "firearms/storage-and-transport"
+            ]
+          },
+          {
+            "group": "Handguns",
+            "pages": [
+              "firearms/handguns/overview",
+              "firearms/handguns/shooting-fundamentals",
+              "firearms/handguns/cleaning-and-maintenance"
+            ]
+          },
+          {
+            "group": "Rifles",
+            "pages": [
+              "firearms/rifles/overview",
+              "firearms/rifles/shooting-fundamentals",
+              "firearms/rifles/cleaning-and-maintenance"
+            ]
+          },
+          {
+            "group": "Shotguns",
+            "pages": [
+              "firearms/shotguns/overview",
+              "firearms/shotguns/shooting-fundamentals",
+              "firearms/shotguns/cleaning-and-maintenance"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Hand-to-Hand",
+        "groups": [
+          {
+            "group": "Knife Defence",
+            "pages": [
+              "hand-to-hand/knife/overview",
+              "hand-to-hand/knife/grips-and-stances",
+              "hand-to-hand/knife/offensive-techniques",
+              "hand-to-hand/knife/defensive-techniques"
+            ]
+          },
+          {
+            "group": "Takedown Tactics",
+            "pages": [
+              "hand-to-hand/takedowns/overview",
+              "hand-to-hand/takedowns/standing-takedowns",
+              "hand-to-hand/takedowns/ground-control",
+              "hand-to-hand/takedowns/restraint-and-compliance"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "keyFeatures": [
+    "Firearms safety, handling, and maintenance guides for handguns, rifles, and shotguns",
+    "Step-by-step cleaning and maintenance procedures for common firearm types",
+    "Knife tactics covering grips, stances, offensive and defensive techniques",
+    "Takedown and ground-control techniques for real-world scenarios",
+    "De-escalation strategies including verbal techniques and situational awareness",
+    "Escape and evasion tactics to avoid physical confrontation",
+    "Legal disclaimer and safety principles for responsible self-defence"
+  ],
+  "publicApiSurface": []
+}

@@ -1,0 +1,117 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "name": "Guardian Defence",
+  "theme": "almond",
+  "colors": {
+    "primary": "#ef7025",
+    "light": "#eec9bc",
+    "dark": "#4fa1ab"
+  },
+  "favicon": "/favicon.svg",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Safety First",
+        "href": "/safety-principles"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Get Started",
+      "href": "/introduction"
+    }
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Fundamentals",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "introduction",
+              "safety-principles",
+              "legal-disclaimer"
+            ]
+          },
+          {
+            "group": "De-Escalation",
+            "pages": [
+              "de-escalation/overview",
+              "de-escalation/verbal-techniques",
+              "de-escalation/situational-awareness",
+              "de-escalation/escape-and-evade"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Firearms",
+        "groups": [
+          {
+            "group": "Firearms Overview",
+            "pages": [
+              "firearms/introduction",
+              "firearms/safe-handling",
+              "firearms/storage-and-transport"
+            ]
+          },
+          {
+            "group": "Handguns",
+            "pages": [
+              "firearms/handguns/overview",
+              "firearms/handguns/shooting-fundamentals",
+              "firearms/handguns/cleaning-and-maintenance"
+            ]
+          },
+          {
+            "group": "Rifles",
+            "pages": [
+              "firearms/rifles/overview",
+              "firearms/rifles/shooting-fundamentals",
+              "firearms/rifles/cleaning-and-maintenance"
+            ]
+          },
+          {
+            "group": "Shotguns",
+            "pages": [
+              "firearms/shotguns/overview",
+              "firearms/shotguns/shooting-fundamentals",
+              "firearms/shotguns/cleaning-and-maintenance"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Hand-to-Hand",
+        "groups": [
+          {
+            "group": "Knife Defence",
+            "pages": [
+              "hand-to-hand/knife/overview",
+              "hand-to-hand/knife/grips-and-stances",
+              "hand-to-hand/knife/offensive-techniques",
+              "hand-to-hand/knife/defensive-techniques"
+            ]
+          },
+          {
+            "group": "Takedown Tactics",
+            "pages": [
+              "hand-to-hand/takedowns/overview",
+              "hand-to-hand/takedowns/standing-takedowns",
+              "hand-to-hand/takedowns/ground-control",
+              "hand-to-hand/takedowns/restraint-and-compliance"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "socials": {}
+  }
+}
